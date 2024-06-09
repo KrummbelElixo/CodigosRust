@@ -1,0 +1,1 @@
+C:\Users\sprin\Downloads\myrust\pizza_crud\target\debug\pizza_crud.exe: C:\Users\sprin\Downloads\myrust\pizza_crud\src\entity\mod.rs C:\Users\sprin\Downloads\myrust\pizza_crud\src\entity\pizza.rs C:\Users\sprin\Downloads\myrust\pizza_crud\src\entity\user.rs C:\Users\sprin\Downloads\myrust\pizza_crud\src\main.rs
